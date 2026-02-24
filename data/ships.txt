@@ -1,0 +1,202 @@
+# Culture ship names — one per line
+# Sourced from Iain M. Banks' Culture novels
+# Lines starting with # are ignored
+# Names wrapped in *asterisks* are canonical Banks originals
+#
+# Consider Phlebas
+*Nervous Energy*
+*Determinist*
+*The Ends of Invention*
+*Bora Horza Gobuchul*
+*Clear Air Turbulence*
+*No More Mr Nice Guy*
+*So Much For Subtlety*
+*Unfortunate Conflict of Evidence*
+# The Player of Games
+*Limiting Factor*
+*Of Course I Still Love You*
+*Just Read The Instructions*
+# Use of Weapons
+*Congenital Optimist*
+*Very Little Gravitas Indeed*
+# Excession
+*Sleeper Service*
+*Grey Area*
+*Not Invented Here*
+*Shoot Them Later*
+*Fate Amenable To Change*
+*Ethics Gradient*
+*Killing Time*
+*Frank Exchange of Views*
+*Honest Mistake*
+*Different Tan*
+*Jaundiced Outlook*
+*Heavy Messing*
+*Problem Child*
+*Experiencing A Significant Gravitas Shortfall*
+*Zero Gravitas*
+*Steely Glint*
+*Youthful Indiscretion*
+*Quietly Confident*
+*Anticipation of a New Lover's Arrival*
+# Inversions
+# Look to Windward
+*Resistance Is Character-Forming*
+*Lasting Damage*
+# Matter
+*Lightly Seared on the Reality Grill*
+*Now We Try It My Way*
+*You'll Clean That Up Before You Leave*
+*Displaced Optimism*
+# Surface Detail
+*Sense Amid Madness Wit Amidst Folly*
+*Falling Outside The Normal Moral Constraints*
+*Just The Washing Instruction Conditions Undreamed Of*
+*Me I'm Counting*
+*You Call This Clean?*
+*Headcrash*
+*Refreshingly Unconcerned With The Vulgar Notion Of Alarm*
+# The Hydrogen Sonata
+*Mistake Not...*
+*Pressure Drop*
+*Beats Working*
+*Contents May Differ*
+*Just Passing Through*
+*Unreliable Witness*
+*Caconym*
+*Wholly Casual*
+*Rapid Random Response Unit*
+*New Toy*
+*Outstanding Contribution to the Historical Process*
+# Generated — Banksian originals
+# Short form
+Plausible Deniability
+Nominal Deterrent
+Residual Charm
+Oblique Approach
+Measured Response
+Moot Point
+Casual Inevitability
+Acceptable Losses
+Passing Fancy
+Extenuating Circumstances
+Adjacent Possible
+Settled Science
+Known Quantity
+Warm Front
+# Medium form — understatement / aside
+Not Technically Anyone's Fault
+Almost Certainly Not Deliberate
+That Went Better Than Expected
+An Unfortunate Series Of Improvements
+Not Entirely Without Precedent
+One Supposes This Will Do
+Not My Finest Hour
+Previously Considered Impossible
+Which Tax Jurisdiction Is This
+# Medium form — conversational
+I Was Told There Would Be Cake
+Don't Look At Me
+This Is Fine Presumably
+I Didn't Start It
+You Were Warned Politely
+Ask Me Again Later
+# Long form — bureaucratic
+That Was Supposed To Be Strictly Theoretical
+# Generated — round 2
+# Terse compounds
+Prior Art
+Credible Threat
+Foregone Conclusion
+Calculated Risk
+Controlled Burn
+Standing Invitation
+Reasonable Doubt
+Ulterior Motive
+Diminishing Returns
+False Positive
+Collateral Benefit
+Informed Consent
+Tactical Patience
+Mitigating Factor
+Benign Neglect
+Burden of Proof
+Moral Hazard
+Idle Speculation
+Unintended Consequence
+Dubious Provenance
+Reliable Narrator
+Convenient Fiction
+Impulse Purchase
+Cognitive Surplus
+# Conversational asides
+Well That Escalated Predictably
+Nobody Asked But Here We Are
+I Brought Enough For Everyone
+It Seemed Like A Good Idea
+Let's Not Do That Again
+Someone Should Probably Mention
+That's Not What I Meant
+Trust Me On This One
+It'll Make Sense Eventually
+I Had It A Moment Ago
+We Agreed Not To Talk About That
+No One Is Impressed
+Say What You Actually Mean
+I Thought You Were Handling That
+# Understatement
+A Marginal Improvement On Silence
+Technically Still Diplomacy
+Tolerably Amused
+Scarcely Relevant
+Conspicuously Unremarkable
+Faintly Embarrassing
+Modestly Devastating
+Unreasonably Fond Of Explosions
+Surprisingly Nonchalant
+Slightly More Than Necessary
+Largely Harmless Intentions
+# Philosophical / ethical
+Retroactive Justification
+Motivated Reasoning
+Diminished Responsibility
+Charitable Interpretation
+Enlightened Self-Interest
+Necessary Fiction
+# Menace in politeness
+I Do Hope We Understand Each Other
+Entirely Within Parameters
+A Firm But Friendly Reminder
+The Calibration Will Not Take Long
+Nothing Personal Obviously
+With All Due Respect And Then Some
+There Will Be A Brief Adjustment Period
+Consider This A Courtesy
+Just A Gentle Correction
+Disproportionate But Not Unreasonable
+# Bureaucratic
+Pending Further Review Of The Situation
+An Involuntary Contribution To Science
+Regrettable But Statistically Inevitable
+Unauthorized Redistribution Of Momentum
+Provisional Enthusiasm Subject To Revision
+A Not Entirely Sanctioned Intervention
+Retroactively Approved
+Awaiting A More Convenient Apocalypse
+Pursuant To No Particular Authority
+The Best Available Outcome Under The Conditions
+# Single words
+Shibboleth
+Apocrypha
+Concinnity
+Sang-Froid
+Punctilio
+Legerdemain
+Insouciance
+Penumbra
+# Bewildered observer
+Is This Supposed To Be Happening
+That Wasn't In The Briefing
+Has Anyone Else Noticed
+Apparently This Is Normal
+I'm Sure There's A Reasonable Explanation
