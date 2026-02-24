@@ -11,5 +11,7 @@ Replaces Claude Code's default spinner verbs with Culture ship names from Iain M
 ## Files
 
 - `data/ships.txt` — ship name database (editable)
+- `data/config.json` — canonical/generated toggle
+- `data/generator-prompt.md` — v6 prompt for generating new ship names (iteratively refined over 6 rounds)
 - `hooks/session-start.sh` — reads ships, merges into settings.json
 - `commands/setup.md` — interactive customization command
