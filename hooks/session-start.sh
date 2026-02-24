@@ -58,4 +58,4 @@ else
     exit 0
 fi
 
-echo "intership: loaded ${#ships[@]} Culture ship names as spinner verbs"
+echo "intership: loaded ${#ships[@]} Culture ship names as spinner verbs (restart session to see them)"

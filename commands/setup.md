@@ -19,10 +19,4 @@ You are configuring the Culture ship name spinner verbs for Claude Code.
    - **Toggle mode**: Switch between "replace" (only ships) and "append" (ships + defaults)
 4. Update `data/ships.txt` with the changes
 5. Re-run the session-start hook to apply: `bash ${CLAUDE_PLUGIN_ROOT}/hooks/session-start.sh`
-6. Confirm what changed
-
-## Important
-
-- Always preserve the comment structure in ships.txt (book headers starting with #)
-- Deduplicate ship names
-- Show the user the final count of active ships
+6. Confirm what changed and tell the user: **Restart Claude Code (`/exit` then relaunch) to see the new spinner verbs.** Claude Code reads spinner verbs at launch, so changes written to settings.json during a session won't appear until the next session.
