@@ -80,10 +80,6 @@ Casual Inevitability
 Acceptable Losses
 Passing Fancy
 Extenuating Circumstances
-Adjacent Possible
-Settled Science
-Known Quantity
-Warm Front
 # Medium form — understatement / aside
 Not Technically Anyone's Fault
 Almost Certainly Not Deliberate
@@ -118,7 +114,6 @@ False Positive
 Collateral Benefit
 Informed Consent
 Tactical Patience
-Mitigating Factor
 Benign Neglect
 Burden of Proof
 Moral Hazard
@@ -128,39 +123,28 @@ Dubious Provenance
 Reliable Narrator
 Convenient Fiction
 Impulse Purchase
-Cognitive Surplus
 # Conversational asides
 Well That Escalated Predictably
 Nobody Asked But Here We Are
 I Brought Enough For Everyone
 It Seemed Like A Good Idea
 Let's Not Do That Again
-Someone Should Probably Mention
 That's Not What I Meant
 Trust Me On This One
 It'll Make Sense Eventually
 I Had It A Moment Ago
 We Agreed Not To Talk About That
 No One Is Impressed
-Say What You Actually Mean
 I Thought You Were Handling That
 # Understatement
 A Marginal Improvement On Silence
 Technically Still Diplomacy
-Tolerably Amused
-Scarcely Relevant
 Conspicuously Unremarkable
-Faintly Embarrassing
 Modestly Devastating
 Unreasonably Fond Of Explosions
-Surprisingly Nonchalant
-Slightly More Than Necessary
 Largely Harmless Intentions
 # Philosophical / ethical
-Retroactive Justification
 Motivated Reasoning
-Diminished Responsibility
-Charitable Interpretation
 Enlightened Self-Interest
 Necessary Fiction
 # Menace in politeness
@@ -188,12 +172,10 @@ The Best Available Outcome Under The Conditions
 # Single words
 Shibboleth
 Apocrypha
-Concinnity
 Sang-Froid
 Punctilio
 Legerdemain
 Insouciance
-Penumbra
 # Bewildered observer
 Is This Supposed To Be Happening
 That Wasn't In The Briefing
@@ -207,18 +189,13 @@ Vested Interest
 Suspended Disbelief
 Acquired Taste
 Voluntary Redundancy
-Qualified Success
 Borrowed Time
 Open Secret
-Selective Recall
 Structural Irony
 Known Unknown
 Inherent Vice
 Gentle Turbulence
-Terminal Ambiguity
-Constructive Ambiguity
 Plausible Enthusiasm
-Surplus Confidence
 Benevolent Oversight
 Minimum Viable Excuse
 # Conversational asides
@@ -230,7 +207,6 @@ Tell Them I Tried
 I've Seen Worse
 Nobody Saw That Coming
 You Might Want To Sit Down
-Let Me Finish
 It Wasn't Locked
 Someone Left This Running
 I Wouldn't Worry Just Yet
@@ -256,8 +232,6 @@ I Don't Remember Approving This
 What Fresh Nonsense
 Was That On Purpose
 Since When Was That An Option
-Are We Sure About This
-That Doesn't Seem Right
 Nobody Mentioned Explosions
 When Did That Become My Problem
 At What Point Did We Commit
@@ -274,18 +248,14 @@ In The Gentlest Possible Terms
 This Needn't Become Unpleasant
 # Philosophical / ethical
 Second-Order Consequence
-Moral Arithmetic
 Epistemic Humility
 Unfalsifiable Optimism
-Reasonable Approximation
 Emergent Misbehaviour
-Inherited Assumption
 # Bureaucratic
 A Regrettable But Instructive Sequence Of Events
 Pursuant To An Informal Understanding
 Not Technically Covered By The Treaty
 In Accordance With No Particular Doctrine
-Pending A More Thorough Understanding
 An Unscheduled Contribution To Local Entropy
 The Situation Has Been Noted
 # Single words
@@ -293,3 +263,71 @@ Parlous
 Limerence
 Velleity
 Equanimity
+# Generated — round 4
+# Terse compounds
+Probable Cause
+Adverse Possession
+Undue Influence
+Hostile Witness
+Fine Print
+Dead Reckoning
+Sunk Cost
+Negative Capability
+Poetic License
+Present Tense
+Resting Potential
+Vanishing Point
+# Conversational asides
+That Wasn't Part Of The Deal
+It Made Sense At The Time
+Hold That Thought Indefinitely
+Funny Story Actually
+That's Between Me And The Vacuum
+Someone Else's Problem Now
+There's A Perfectly Good Explanation
+You're Going To Want Context
+Remind Me How This Started
+I Was Getting To That
+Who Left The Door Open
+# Understatement
+Impeccably Timed Catastrophe
+Regrettably Thorough
+Mildly Thermonuclear
+Troublingly Effective
+Not Without A Certain Doomed Charm
+Cheerfully Inevitable
+Technically Not A Violation
+# Bewildered observer
+I Wasn't Briefed On The Volcano
+When Did We Get A Second Sun
+Why Is That On Fire
+That's Not In Any Of The Projections
+I Have Several Questions
+How Long Has That Been There
+What Do You Mean It's Deliberate
+# Menace in politeness
+On Reflection You Should Run
+Shall We Skip The Formalities
+That Was The Diplomatic Option
+One Final Courtesy
+I Trust This Won't Happen Again
+How Shall I Put This
+# Philosophical / ethical
+Principled Indifference
+Accidental Virtue
+Sympathetic Detonation
+Applied Whimsy
+# Bureaucratic
+Per A Previously Undisclosed Agreement
+An Entirely Legitimate Reallocation Of Resources
+Subsequent To Events Not Covered In Training
+Provisionally Classified As Intentional
+In Excess Of Recommended Enthusiasm
+A Productive Misunderstanding
+Not Explicitly Forbidden By Current Policy
+Subject To A Generous Interpretation Of The Rules
+# Single words
+Aplomb
+Brinksmanship
+Panache
+Temerity
