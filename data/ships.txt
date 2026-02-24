@@ -71,30 +71,22 @@
 # Generated — Banksian originals
 # Terse compounds
 Plausible Deniability
-Measured Response
 Moot Point
 Acceptable Losses
 Passing Fancy
 Prior Art
-Credible Threat
-Foregone Conclusion
-Calculated Risk
 Controlled Burn
 Reasonable Doubt
-Ulterior Motive
-Diminishing Returns
 False Positive
 Collateral Benefit
 Informed Consent
 Tactical Patience
 Benign Neglect
-Burden of Proof
 Moral Hazard
 Reliable Narrator
 Convenient Fiction
 Impulse Purchase
 Fait Accompli
-Vested Interest
 Suspended Disbelief
 Acquired Taste
 Voluntary Redundancy
@@ -103,7 +95,6 @@ Open Secret
 Structural Irony
 Known Unknown
 Inherent Vice
-Benevolent Oversight
 Minimum Viable Excuse
 Probable Cause
 Adverse Possession
@@ -152,7 +143,6 @@ I Was Told There Would Be Cake
 Don't Look At Me
 This Is Fine Presumably
 I Didn't Start It
-You Were Warned Politely
 Ask Me Again Later
 Well That Escalated Predictably
 Nobody Asked But Here We Are
@@ -170,14 +160,12 @@ Wait Until You Hear This
 They Said It Couldn't Be Done
 Tell Them I Tried
 I've Seen Worse
-Nobody Saw That Coming
 You Might Want To Sit Down
 It Wasn't Locked
 Someone Left This Running
 I Wouldn't Worry Just Yet
 Does Anyone Remember Why
 That Was My Next Question
-What Were We Thinking
 That Wasn't Part Of The Deal
 It Made Sense At The Time
 Hold That Thought Indefinitely
@@ -219,11 +207,8 @@ Disproportionate But Not Unreasonable
 Please Remain In Your Current Orbit
 This Concludes The Polite Version
 A Brief Window Of Compliance
-Do Let Me Know When You're Ready
 That Was Your Warning
 I'm Being Very Patient
-Consider The Matter Resolved
-Allow Me To Clarify
 In The Gentlest Possible Terms
 This Needn't Become Unpleasant
 On Reflection You Should Run
@@ -232,7 +217,7 @@ That Was The Diplomatic Option
 One Final Courtesy
 I Trust This Won't Happen Again
 How Shall I Put This
-# Philosophical / ethical
+# Absurd juxtaposition / dark whimsy
 Enlightened Self-Interest
 Necessary Fiction
 Unfalsifiable Optimism
@@ -252,9 +237,7 @@ Awaiting A More Convenient Apocalypse
 Pursuant To No Particular Authority
 The Best Available Outcome Under The Conditions
 A Regrettable But Instructive Sequence Of Events
-Pursuant To An Informal Understanding
 Not Technically Covered By The Treaty
-In Accordance With No Particular Doctrine
 An Unscheduled Contribution To Local Entropy
 Per A Previously Undisclosed Agreement
 An Entirely Legitimate Reallocation Of Resources
@@ -270,11 +253,8 @@ Apocrypha
 Sang-Froid
 Punctilio
 Legerdemain
-Insouciance
 Parlous
 Limerence
-Velleity
-Equanimity
 Aplomb
 Brinksmanship
 Panache
