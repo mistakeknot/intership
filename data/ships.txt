@@ -69,44 +69,17 @@
 *New Toy*
 *Outstanding Contribution to the Historical Process*
 # Generated — Banksian originals
-# Short form
+# Terse compounds
 Plausible Deniability
-Nominal Deterrent
-Residual Charm
-Oblique Approach
 Measured Response
 Moot Point
-Casual Inevitability
 Acceptable Losses
 Passing Fancy
-Extenuating Circumstances
-# Medium form — understatement / aside
-Not Technically Anyone's Fault
-Almost Certainly Not Deliberate
-That Went Better Than Expected
-An Unfortunate Series Of Improvements
-Not Entirely Without Precedent
-One Supposes This Will Do
-Not My Finest Hour
-Previously Considered Impossible
-Which Tax Jurisdiction Is This
-# Medium form — conversational
-I Was Told There Would Be Cake
-Don't Look At Me
-This Is Fine Presumably
-I Didn't Start It
-You Were Warned Politely
-Ask Me Again Later
-# Long form — bureaucratic
-That Was Supposed To Be Strictly Theoretical
-# Generated — round 2
-# Terse compounds
 Prior Art
 Credible Threat
 Foregone Conclusion
 Calculated Risk
 Controlled Burn
-Standing Invitation
 Reasonable Doubt
 Ulterior Motive
 Diminishing Returns
@@ -117,73 +90,9 @@ Tactical Patience
 Benign Neglect
 Burden of Proof
 Moral Hazard
-Idle Speculation
-Unintended Consequence
-Dubious Provenance
 Reliable Narrator
 Convenient Fiction
 Impulse Purchase
-# Conversational asides
-Well That Escalated Predictably
-Nobody Asked But Here We Are
-I Brought Enough For Everyone
-It Seemed Like A Good Idea
-Let's Not Do That Again
-That's Not What I Meant
-Trust Me On This One
-It'll Make Sense Eventually
-I Had It A Moment Ago
-We Agreed Not To Talk About That
-No One Is Impressed
-I Thought You Were Handling That
-# Understatement
-A Marginal Improvement On Silence
-Technically Still Diplomacy
-Conspicuously Unremarkable
-Modestly Devastating
-Unreasonably Fond Of Explosions
-Largely Harmless Intentions
-# Philosophical / ethical
-Motivated Reasoning
-Enlightened Self-Interest
-Necessary Fiction
-# Menace in politeness
-I Do Hope We Understand Each Other
-Entirely Within Parameters
-A Firm But Friendly Reminder
-The Calibration Will Not Take Long
-Nothing Personal Obviously
-With All Due Respect And Then Some
-There Will Be A Brief Adjustment Period
-Consider This A Courtesy
-Just A Gentle Correction
-Disproportionate But Not Unreasonable
-# Bureaucratic
-Pending Further Review Of The Situation
-An Involuntary Contribution To Science
-Regrettable But Statistically Inevitable
-Unauthorized Redistribution Of Momentum
-Provisional Enthusiasm Subject To Revision
-A Not Entirely Sanctioned Intervention
-Retroactively Approved
-Awaiting A More Convenient Apocalypse
-Pursuant To No Particular Authority
-The Best Available Outcome Under The Conditions
-# Single words
-Shibboleth
-Apocrypha
-Sang-Froid
-Punctilio
-Legerdemain
-Insouciance
-# Bewildered observer
-Is This Supposed To Be Happening
-That Wasn't In The Briefing
-Has Anyone Else Noticed
-Apparently This Is Normal
-I'm Sure There's A Reasonable Explanation
-# Generated — round 3
-# Terse compounds
 Fait Accompli
 Vested Interest
 Suspended Disbelief
@@ -194,11 +103,67 @@ Open Secret
 Structural Irony
 Known Unknown
 Inherent Vice
-Gentle Turbulence
-Plausible Enthusiasm
 Benevolent Oversight
 Minimum Viable Excuse
+Probable Cause
+Adverse Possession
+Undue Influence
+Hostile Witness
+Fine Print
+Dead Reckoning
+Sunk Cost
+Negative Capability
+Poetic License
+Present Tense
+Resting Potential
+Vanishing Point
+# Understatement
+A Marginal Improvement On Silence
+Technically Still Diplomacy
+Modestly Devastating
+Unreasonably Fond Of Explosions
+Only Slightly Recursive
+Functionally Indistinguishable From Calm
+Briefly Spectacular
+A Modest Surplus Of Enthusiasm
+Not Unamused
+Reassuringly Improbable
+Optimistic To A Fault
+Alarmingly Well-Intentioned
+Impeccably Timed Catastrophe
+Regrettably Thorough
+Mildly Thermonuclear
+Troublingly Effective
+Not Without A Certain Doomed Charm
+Cheerfully Inevitable
+Technically Not A Violation
+# Medium form — understatement / aside
+Not Technically Anyone's Fault
+Almost Certainly Not Deliberate
+That Went Better Than Expected
+An Unfortunate Series Of Improvements
+Not Entirely Without Precedent
+One Supposes This Will Do
+Not My Finest Hour
+Previously Considered Impossible
+Which Tax Jurisdiction Is This
 # Conversational asides
+I Was Told There Would Be Cake
+Don't Look At Me
+This Is Fine Presumably
+I Didn't Start It
+You Were Warned Politely
+Ask Me Again Later
+Well That Escalated Predictably
+Nobody Asked But Here We Are
+I Brought Enough For Everyone
+It Seemed Like A Good Idea
+Let's Not Do That Again
+That's Not What I Meant
+Trust Me On This One
+I Had It A Moment Ago
+We Agreed Not To Talk About That
+I Thought You Were Handling That
 I Wasn't Finished
 That's One Word For It
 Wait Until You Hear This
@@ -213,21 +178,20 @@ I Wouldn't Worry Just Yet
 Does Anyone Remember Why
 That Was My Next Question
 What Were We Thinking
-# Understatement
-Commendably Unhurried
-Only Slightly Recursive
-Functionally Indistinguishable From Calm
-Briefly Spectacular
-A Modest Surplus Of Enthusiasm
-Not Unamused
-Statistically Unpromising
-Reassuringly Improbable
-Optimistic To A Fault
-Somewhat More Than Zero
-Alarmingly Well-Intentioned
-Marginally Above Reproach
+That Wasn't Part Of The Deal
+It Made Sense At The Time
+Hold That Thought Indefinitely
+Funny Story Actually
+That's Between Me And The Vacuum
+Someone Else's Problem Now
+You're Going To Want Context
+Remind Me How This Started
 # Bewildered observer
-So That Happened
+Is This Supposed To Be Happening
+That Wasn't In The Briefing
+Has Anyone Else Noticed
+Apparently This Is Normal
+I'm Sure There's A Reasonable Explanation
 I Don't Remember Approving This
 What Fresh Nonsense
 Was That On Purpose
@@ -235,7 +199,23 @@ Since When Was That An Option
 Nobody Mentioned Explosions
 When Did That Become My Problem
 At What Point Did We Commit
+I Wasn't Briefed On The Volcano
+When Did We Get A Second Sun
+Why Is That On Fire
+That's Not In Any Of The Projections
+I Have Several Questions
+How Long Has That Been There
+What Do You Mean It's Deliberate
 # Menace in politeness
+I Do Hope We Understand Each Other
+A Firm But Friendly Reminder
+The Calibration Will Not Take Long
+Nothing Personal Obviously
+With All Due Respect And Then Some
+There Will Be A Brief Adjustment Period
+Consider This A Courtesy
+Just A Gentle Correction
+Disproportionate But Not Unreasonable
 Please Remain In Your Current Orbit
 This Concludes The Polite Version
 A Brief Window Of Compliance
@@ -246,66 +226,6 @@ Consider The Matter Resolved
 Allow Me To Clarify
 In The Gentlest Possible Terms
 This Needn't Become Unpleasant
-# Philosophical / ethical
-Second-Order Consequence
-Epistemic Humility
-Unfalsifiable Optimism
-Emergent Misbehaviour
-# Bureaucratic
-A Regrettable But Instructive Sequence Of Events
-Pursuant To An Informal Understanding
-Not Technically Covered By The Treaty
-In Accordance With No Particular Doctrine
-An Unscheduled Contribution To Local Entropy
-The Situation Has Been Noted
-# Single words
-Parlous
-Limerence
-Velleity
-Equanimity
-# Generated — round 4
-# Terse compounds
-Probable Cause
-Adverse Possession
-Undue Influence
-Hostile Witness
-Fine Print
-Dead Reckoning
-Sunk Cost
-Negative Capability
-Poetic License
-Present Tense
-Resting Potential
-Vanishing Point
-# Conversational asides
-That Wasn't Part Of The Deal
-It Made Sense At The Time
-Hold That Thought Indefinitely
-Funny Story Actually
-That's Between Me And The Vacuum
-Someone Else's Problem Now
-There's A Perfectly Good Explanation
-You're Going To Want Context
-Remind Me How This Started
-I Was Getting To That
-Who Left The Door Open
-# Understatement
-Impeccably Timed Catastrophe
-Regrettably Thorough
-Mildly Thermonuclear
-Troublingly Effective
-Not Without A Certain Doomed Charm
-Cheerfully Inevitable
-Technically Not A Violation
-# Bewildered observer
-I Wasn't Briefed On The Volcano
-When Did We Get A Second Sun
-Why Is That On Fire
-That's Not In Any Of The Projections
-I Have Several Questions
-How Long Has That Been There
-What Do You Mean It's Deliberate
-# Menace in politeness
 On Reflection You Should Run
 Shall We Skip The Formalities
 That Was The Diplomatic Option
@@ -313,11 +233,29 @@ One Final Courtesy
 I Trust This Won't Happen Again
 How Shall I Put This
 # Philosophical / ethical
+Enlightened Self-Interest
+Necessary Fiction
+Unfalsifiable Optimism
+Emergent Misbehaviour
 Principled Indifference
 Accidental Virtue
 Sympathetic Detonation
 Applied Whimsy
 # Bureaucratic
+That Was Supposed To Be Strictly Theoretical
+An Involuntary Contribution To Science
+Regrettable But Statistically Inevitable
+Unauthorized Redistribution Of Momentum
+A Not Entirely Sanctioned Intervention
+Retroactively Approved
+Awaiting A More Convenient Apocalypse
+Pursuant To No Particular Authority
+The Best Available Outcome Under The Conditions
+A Regrettable But Instructive Sequence Of Events
+Pursuant To An Informal Understanding
+Not Technically Covered By The Treaty
+In Accordance With No Particular Doctrine
+An Unscheduled Contribution To Local Entropy
 Per A Previously Undisclosed Agreement
 An Entirely Legitimate Reallocation Of Resources
 Subsequent To Events Not Covered In Training
@@ -327,6 +265,16 @@ A Productive Misunderstanding
 Not Explicitly Forbidden By Current Policy
 Subject To A Generous Interpretation Of The Rules
 # Single words
+Shibboleth
+Apocrypha
+Sang-Froid
+Punctilio
+Legerdemain
+Insouciance
+Parlous
+Limerence
+Velleity
+Equanimity
 Aplomb
 Brinksmanship
 Panache
