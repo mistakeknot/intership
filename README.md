@@ -1,5 +1,7 @@
 # intership
 
+<img width="324" height="179" alt="image" src="https://github.com/user-attachments/assets/1f4853e8-d4f4-4de7-b1ae-763d42df343b" />
+
 Culture ship names as Claude Code spinner verbs. Because why would you settle for "Thinking..." when you could have *Experiencing A Significant Gravitas Shortfall*?
 
 237 curated names: 56 canonical Banks originals from [the Culture series](https://en.wikipedia.org/wiki/Culture_series), plus 181 generated Banksian originals refined through six rounds of editorial culling.
