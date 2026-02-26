@@ -108,6 +108,11 @@ Poetic License
 Present Tense
 Resting Potential
 Vanishing Point
+Force Majeure
+Standard Deviation
+Free Radical
+Parallel Construction
+Sovereign Immunity
 # Understatement
 A Marginal Improvement On Silence
 Technically Still Diplomacy
@@ -128,6 +133,12 @@ Troublingly Effective
 Not Without A Certain Doomed Charm
 Cheerfully Inevitable
 Technically Not A Violation
+Devastatingly Polite
+Gratuitously Precise
+Catastrophically Well-Meaning
+Excessively Reasonable
+Unhelpfully Correct
+Ruinously Punctual
 # Medium form — understatement / aside
 Not Technically Anyone's Fault
 Almost Certainly Not Deliberate
@@ -174,6 +185,11 @@ That's Between Me And The Vacuum
 Someone Else's Problem Now
 You're Going To Want Context
 Remind Me How This Started
+I Had Plans For That
+You'd Think Someone Would Have Mentioned
+Perhaps We Should Talk About The Other Thing
+We Can Discuss This Later If There Is A Later
+In My Defence I Was Left Unsupervised
 # Bewildered observer
 Is This Supposed To Be Happening
 That Wasn't In The Briefing
