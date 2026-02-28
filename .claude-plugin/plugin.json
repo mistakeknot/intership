@@ -15,6 +15,5 @@
   ],
   "commands": [
     "./commands/setup.md"
-  ],
-  "hooks": "./hooks/hooks.json"
+  ]
 }
