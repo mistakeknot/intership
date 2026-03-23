@@ -14,8 +14,8 @@ if [[ -f "$CONFIG_FILE" ]] && command -v jq &>/dev/null; then
     include_generated=$(jq -r 'if has("includeGenerated") then .includeGenerated else true end' "$CONFIG_FILE")
 fi
 
-# Read ship names, skip comments and blank lines, deduplicate
-mapfile -t ships < <(grep -v '^#' "$SHIPS_FILE" | grep -v '^[[:space:]]*$' | sort -u)
+# Read ship names, skip comments and blank lines, deduplicate (bash 3.2 compatible)
+IFS=$'\n' read -r -d '' -a ships < <(grep -v '^#' "$SHIPS_FILE" | grep -v '^[[:space:]]*$' | sort -u) || true
 
 if [[ ${#ships[@]} -eq 0 ]]; then
     echo "intership: no ship names found in $SHIPS_FILE" >&2
