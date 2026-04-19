@@ -1,4 +1,5 @@
 ---
+name: setup
 allowed-tools: Read, Edit, Write, Bash, AskUserQuestion
 description: Customize Culture ship spinner verbs — pick books, add/remove ships, toggle mode
 user-invocable: true
