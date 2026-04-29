@@ -86,4 +86,5 @@ else
     exit 0
 fi
 
-echo "intership: loaded $total spinner verbs ($canonical_count canonical, $generated_count generated) — restart session to see them"
+# Silent on success — printing here costs ~810b/session of attachment overhead.
+# State is observable via spinner verbs in the UI.
