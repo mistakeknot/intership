@@ -1,11 +1,11 @@
 ---
-name: setup
+name: customize
 allowed-tools: Read, Edit, Write, Bash, AskUserQuestion
 description: Customize Culture ship spinner verbs — pick books, add/remove ships, toggle mode
 user-invocable: true
 ---
 
-# Intership Setup
+# Intership Customize
 
 You are configuring the Culture ship name spinner verbs for Claude Code.
 

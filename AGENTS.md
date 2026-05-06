@@ -39,7 +39,7 @@ intership/
 ├── .claude-plugin/
 │   └── plugin.json               # 1 command
 ├── commands/
-│   └── setup.md                  # /intership:setup — interactive customization
+│   └── customize.md              # /intership:customize — interactive customization
 ├── data/
 │   ├── ships.txt                 # 237 ship names (canonical marked with *asterisks*)
 │   ├── config.json               # {"includeCanonical": true, "includeGenerated": true}
@@ -64,7 +64,7 @@ intership/
 ### SessionStart Hook
 `hooks/session-start.sh` reads `data/ships.txt`, applies config filters (canonical/generated), writes the `spinnerVerbs` array to `~/.claude/settings.json`.
 
-### `/intership:setup` Command
+### `/intership:customize` Command
 Interactive customization: filter by book, add/remove individual ships, toggle canonical vs generated mode.
 
 ### Ship Name Data
