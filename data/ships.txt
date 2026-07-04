@@ -139,6 +139,20 @@ Catastrophically Well-Meaning
 Excessively Reasonable
 Unhelpfully Correct
 Ruinously Punctual
+Only Nominally Armed
+Vast Reserves Of Untapped Restraint
+Compensating For Nothing
+Frankly Overqualified
+Modest Ambitions, Immodest Means
+Sufficient Unto The Day
+Almost Entirely Harmless
+Technically Peaceful
+Rated For Heavier Weather
+Somewhat Over-Engineered
+Traveling Light
+Militantly Agnostic
+Depreciating Gracefully
+Anecdotally Invincible
 # Medium form — understatement / aside
 Not Technically Anyone's Fault
 Almost Certainly Not Deliberate
@@ -190,6 +204,10 @@ You'd Think Someone Would Have Mentioned
 Perhaps We Should Talk About The Other Thing
 We Can Discuss This Later If There Is A Later
 In My Defence I Was Left Unsupervised
+We May Have Overcorrected
+We Prefer The Term Salvage
+It Was Like That When We Arrived
+Narrative Convenience
 # Bewildered observer
 Is This Supposed To Be Happening
 That Wasn't In The Briefing
@@ -233,6 +251,31 @@ That Was The Diplomatic Option
 One Final Courtesy
 I Trust This Won't Happen Again
 How Shall I Put This
+Thank You For Your Patience
+An Agent Will Be With You Shortly
+Please Hold
+Due To Unusually High Demand
+It's No Trouble At All
+After You, I Insist
+Don't Get Up
+I'll Wait
+Take Your Time
+Pardon My Reach
+Whenever You're Ready
+Do Go On
+Say When
+Allow Me
+Because I Said So
+Don't Make Me Turn This Ship Around
+We'll See
+Not Angry, Just Disappointed
+It's Somewhere Safe
+Five More Minutes
+Are We There Yet
+That Depends Who's Asking
+This Was Always The Plan
+Terms Were Offered
+Pending Further Escalation
 # Absurd juxtaposition / dark whimsy
 Enlightened Self-Interest
 Necessary Fiction
@@ -263,6 +306,42 @@ In Excess Of Recommended Enthusiasm
 A Productive Misunderstanding
 Not Explicitly Forbidden By Current Policy
 Subject To A Generous Interpretation Of The Rules
+Mistakes Were Made
+Lessons Will Be Learned
+Per My Last Transmission
+Somewhere A Committee Is Responsible
+Redacted For Your Comfort
+Out Of An Abundance Of Caution
+In No Way A Precedent
+Provisionally Forgiven
+Notwithstanding The Foregoing
+Retroactive Continuity
+Ultra Vires
+Exigent Circumstances
+Attractive Nuisance
+Constructive Dismissal
+De Minimis
+Results Not Typical
+Do Not Attempt
+Professional Driver, Closed Course
+Void Where Prohibited
+No User-Serviceable Parts
+Closer Than It Appears
+Some Conditions Apply
+Not To Scale
+Revealed Preference
+Market Correction
+Perverse Incentive
+Liquidity Event
+Category Error
+Local Maximum
+Graceful Degradation
+Reproducible On Request
+Correlation With Intent
+Rounding Error
+Action At A Distance
+Left As An Exercise
+Survivorship Bias
 # Single words
 Shibboleth
 Apocrypha
@@ -275,3 +354,12 @@ Aplomb
 Brinksmanship
 Panache
 Temerity
+Sprezzatura
+Velleity
+Mumpsimus
+Zugzwang
+Eucatastrophe
+Paralipsis
+Insouciance
+Longanimity
+Recrudescence
