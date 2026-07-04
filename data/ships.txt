@@ -153,6 +153,11 @@ Traveling Light
 Militantly Agnostic
 Depreciating Gracefully
 Anecdotally Invincible
+Only Distantly Lethal
+Ostensibly Unarmed
+Substantially Calmer Than Advertised
+Deadweight Loss
+Standing Wave
 # Medium form — understatement / aside
 Not Technically Anyone's Fault
 Almost Certainly Not Deliberate
@@ -208,6 +213,7 @@ We May Have Overcorrected
 We Prefer The Term Salvage
 It Was Like That When We Arrived
 Narrative Convenience
+The Treaty Held Briefly
 # Bewildered observer
 Is This Supposed To Be Happening
 That Wasn't In The Briefing
@@ -276,6 +282,9 @@ That Depends Who's Asking
 This Was Always The Plan
 Terms Were Offered
 Pending Further Escalation
+You May Wish To Brace
+This Was The Gentle Correction
+Consider The Precedent Set
 # Absurd juxtaposition / dark whimsy
 Enlightened Self-Interest
 Necessary Fiction
@@ -363,3 +372,5 @@ Paralipsis
 Insouciance
 Longanimity
 Recrudescence
+Effrontery
+Equipoise
