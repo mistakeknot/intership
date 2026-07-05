@@ -9,6 +9,10 @@ __pycache__/
 # OS
 .DS_Store
 
+# SQLite runtime journal files
+*.db-shm
+*.db-wal
+
 # Editor/IDE
 .idea/
 .vscode/
