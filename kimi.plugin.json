@@ -1,0 +1,26 @@
+{
+  "name": "intership",
+  "version": "0.3.5",
+  "description": "Culture ship names as Claude Code spinner verbs. Because why would you settle for 'Thinking...' when you could have 'Experiencing A Significant Gravitas Shortfall'?",
+  "license": "MIT",
+  "keywords": [
+    "spinner",
+    "culture",
+    "banks",
+    "ships",
+    "fun"
+  ],
+  "author": "mistakeknot",
+  "interface": {
+    "displayName": "intership",
+    "shortDescription": "Culture ship names as Claude Code spinner verbs. Because why would you settle for 'Thinking...' when you could have '..."
+  },
+  "commands": "./commands/",
+  "hooks": [
+    {
+      "event": "SessionStart",
+      "command": "${KIMI_PLUGIN_ROOT}/hooks/session-start.sh",
+      "timeout": 5
+    }
+  ]
+}
