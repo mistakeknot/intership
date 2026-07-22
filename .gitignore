@@ -17,3 +17,6 @@ __pycache__/
 .idea/
 .vscode/
 *.sw?
+
+# Local publish-approval marker (never committed)
+.publish-approved
